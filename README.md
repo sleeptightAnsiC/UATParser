@@ -4,7 +4,7 @@ Script for parsing the output of UnrealAutomationTool invoked with multiple `-He
 It can save every UAT Command and its Parameters (and much more) to the meaningful Python List.\
 This script was created wery quickly as a prof of concent, basically a prototipe.
 
-Dependencies: ue4cli (only for finding RunUAT script), Python
+Dependencies: ue4cli (only for finding RunUAT script), Python, Unreal Engine
 
 ```
 python ./parse_uat.py
