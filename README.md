@@ -1,7 +1,7 @@
 # UATParser
 
 Script for parsing the output of UnrealAutomationTool invoked with multiple `-Help` flags.\
-It can save every UAT Commands and its Parameters (and much more) to the meaningful Python List.\
+It can save every UAT Command and its Parameters (and much more) to the meaningful Python List.\
 This script was created wery quickly as a prof of concent, basically a prototipe.
 
 Dependencies: ue4cli (only for finding RunUAT script), Python
