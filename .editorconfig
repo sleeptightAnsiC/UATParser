@@ -1,0 +1,7 @@
+
+## WARN: This is only for ue4cli, remove it after
+[*.py]
+root = true
+indent_style = space
+tab_width = 4
+
